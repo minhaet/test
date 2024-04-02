@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>커밋 테스트</title>
+<title>테스트 재수정</title>
 </head>
 <body>
 재수정 내용입니다.
