@@ -7,7 +7,7 @@
 <title>테스트 재수정</title>
 </head>
 <body>
-원격에서 가져옵니다.
+원격에서 내용이 변경됩니다.
 
 </body>
 </html>
